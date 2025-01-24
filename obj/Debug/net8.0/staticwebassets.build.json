@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PqF7MD4h1dsL4vHq40Qm4ZC7lICigZEWqCq/Cgao2FQ=",
+  "Source": "JobsMicroservice",
+  "BasePath": "_content/JobsMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
