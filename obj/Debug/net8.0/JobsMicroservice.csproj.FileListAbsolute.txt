@@ -68,3 +68,4 @@ C:\Users\Admin\Documents\Universidad\9no Semestre\Desarrollo de Software\Proyect
 C:\Users\Admin\Documents\Universidad\9no Semestre\Desarrollo de Software\Proyecto\gruas-ucab-backend\MicroServices\JobsMicroservice\obj\Debug\net8.0\JobsMicroservice.pdb
 C:\Users\Admin\Documents\Universidad\9no Semestre\Desarrollo de Software\Proyecto\gruas-ucab-backend\MicroServices\JobsMicroservice\obj\Debug\net8.0\JobsMicroservice.genruntimeconfig.cache
 C:\Users\Admin\Documents\Universidad\9no Semestre\Desarrollo de Software\Proyecto\gruas-ucab-backend\MicroServices\JobsMicroservice\obj\Debug\net8.0\ref\JobsMicroservice.dll
+C:\Users\Admin\Documents\Universidad\9no Semestre\Desarrollo de Software\Proyecto\gruas-ucab-backend\MicroServices\JobsMicroservice\obj\Debug\net8.0\JobsMicroservice.sourcelink.json

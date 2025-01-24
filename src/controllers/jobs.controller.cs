@@ -4,6 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace JobsMicroservice.src.controllers
 {
+    [Controller]
+    [Route("jobs")]
     public class JobsController(IRecurringJobManager recurringJobManager, BackgroundJobsService backgroundJobsService) : ControllerBase
     {
         private readonly IRecurringJobManager _recurringJobManager = recurringJobManager;
